@@ -1,0 +1,240 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430104248959">
+  <folder name="css">
+    <file name="site_global.css" crc="4204668907"/>
+    <file name="master_a-master.css" crc="421368951" ref="ml-reset:ml-instructions:mla-reset:hs-reset:hs-instructions:hs:loader:mla-instructions:hs-register:hs-verify:mla-register:hs-login:hs-select-register:mla-verify:hs-welcome:u2---hs:mla-welcome:sm-category:ml-select-register:mp-select-register:sm-distinguished:ml-verify:mp-login:sm-search:smdm-animation:mp-reset:sml-near-me:ml-bp-animation:mp-instructions:smc-eats:mlm-select-register:mp-register:sms-loading:mlm-register:mp-verify:sms-results:mp-welcome:sm:hs-welcome-back:ml:ml-welcome-back:ml-membership:mlm-welcome-back:ml-about:mlm-verify:mla-welcome-back:ml-back-pocket:mlm-welcome:mp-welcome-back:mp:mlm-login:mp-choices:mlm-reset:mp-redeem:mlm-instructions:ml-register:mla-select-register:ml-login:mla-login:ml-welcome:sm-prompt:mp-redeem-prompt:mp-prompt"/>
+    <file name="ml-reset.css" crc="93356349" ref="ml-reset"/>
+    <file name="ml-instructions.css" crc="464257538" ref="ml-instructions"/>
+    <file name="mla-reset.css" crc="4139766144" ref="mla-reset"/>
+    <file name="hs-reset.css" crc="4219998688" ref="hs-reset"/>
+    <file name="index.css" crc="4070362370" ref="index"/>
+    <file name="hs-instructions.css" crc="318482091" ref="hs-instructions"/>
+    <file name="hs.css" crc="4122957285" ref="hs"/>
+    <file name="loader.css" crc="212542575" ref="loader"/>
+    <file name="mla-instructions.css" crc="516750299" ref="mla-instructions"/>
+    <file name="hs-register.css" crc="486161617" ref="hs-register"/>
+    <file name="hs-verify.css" crc="4000498188" ref="hs-verify"/>
+    <file name="mla-register.css" crc="3864265778" ref="mla-register"/>
+    <file name="hs-login.css" crc="3846608115" ref="hs-login"/>
+    <file name="hs-select-register.css" crc="3819040384" ref="hs-select-register"/>
+    <file name="mla-verify.css" crc="4008181200" ref="mla-verify"/>
+    <file name="hs-welcome.css" crc="301633402" ref="hs-welcome"/>
+    <file name="u2---hs.css" crc="3862563353" ref="u2---hs"/>
+    <file name="mla-welcome.css" crc="3950195351" ref="mla-welcome"/>
+    <file name="sm-category.css" crc="101235984" ref="sm-category"/>
+    <file name="ml-select-register.css" crc="294351892" ref="ml-select-register"/>
+    <file name="mp-select-register.css" crc="532083443" ref="mp-select-register"/>
+    <file name="sm-distinguished.css" crc="393599448" ref="sm-distinguished"/>
+    <file name="ml-verify.css" crc="3794565624" ref="ml-verify"/>
+    <file name="mp-login.css" crc="4171594141" ref="mp-login"/>
+    <file name="sm-search.css" crc="3862902488" ref="sm-search"/>
+    <file name="smdm-animation.css" crc="153415126" ref="smdm-animation"/>
+    <file name="mp-reset.css" crc="4054392940" ref="mp-reset"/>
+    <file name="sml-near-me.css" crc="337171433" ref="sml-near-me"/>
+    <file name="ml-bp-animation.css" crc="416263458" ref="ml-bp-animation"/>
+    <file name="mp-instructions.css" crc="234047435" ref="mp-instructions"/>
+    <file name="smc-eats.css" crc="69439537" ref="smc-eats"/>
+    <file name="mlm-select-register.css" crc="4035723715" ref="mlm-select-register"/>
+    <file name="mp-register.css" crc="135542445" ref="mp-register"/>
+    <file name="sms-loading.css" crc="138327846" ref="sms-loading"/>
+    <file name="mlm-register.css" crc="3966286053" ref="mlm-register"/>
+    <file name="mp-verify.css" crc="4131937443" ref="mp-verify"/>
+    <file name="sms-results.css" crc="70601556" ref="sms-results"/>
+    <file name="mp-welcome.css" crc="4249417219" ref="mp-welcome"/>
+    <file name="sm.css" crc="328698966" ref="sm"/>
+    <file name="hs-welcome-back.css" crc="3783763470" ref="hs-welcome-back"/>
+    <file name="ml.css" crc="283281990" ref="ml"/>
+    <file name="ml-welcome-back.css" crc="3787672455" ref="ml-welcome-back"/>
+    <file name="ml-membership.css" crc="3848455049" ref="ml-membership"/>
+    <file name="mlm-welcome-back.css" crc="3908877407" ref="mlm-welcome-back"/>
+    <file name="ml-about.css" crc="16423833" ref="ml-about"/>
+    <file name="mlm-verify.css" crc="3766990610" ref="mlm-verify"/>
+    <file name="mla-welcome-back.css" crc="153158230" ref="mla-welcome-back"/>
+    <file name="ml-back-pocket.css" crc="3793606430" ref="ml-back-pocket"/>
+    <file name="mlm-welcome.css" crc="101337037" ref="mlm-welcome"/>
+    <file name="mp-welcome-back.css" crc="4033811034" ref="mp-welcome-back"/>
+    <file name="mp.css" crc="326390945" ref="mp"/>
+    <file name="mlm-login.css" crc="444160977" ref="mlm-login"/>
+    <file name="mp-choices.css" crc="513356347" ref="mp-choices"/>
+    <file name="mlm-reset.css" crc="4265213744" ref="mlm-reset"/>
+    <file name="mp-redeem.css" crc="4268128545" ref="mp-redeem"/>
+    <file name="mlm-instructions.css" crc="3983145993" ref="mlm-instructions"/>
+    <file name="ml-register.css" crc="3912014771" ref="ml-register"/>
+    <file name="mla-select-register.css" crc="102174612" ref="mla-select-register"/>
+    <file name="ml-login.css" crc="4236867533" ref="ml-login"/>
+    <file name="mla-login.css" crc="3950450302" ref="mla-login"/>
+    <file name="ml-welcome.css" crc="102119487" ref="ml-welcome"/>
+    <file name="sm-prompt.css" crc="4096172423" ref="sm-prompt"/>
+    <file name="mp-redeem-prompt.css" crc="4096172423" ref="mp-redeem-prompt"/>
+    <file name="mp-prompt.css" crc="4096172423" ref="mp-prompt"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="museutils.js" crc="521960461" ref="index:hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="pie.js" crc="3827607177" ref="index:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:smdm-animation:ml-bp-animation"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="html5shiv.js" crc="4241844378" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="webpro.js" crc="220831917" ref="sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:smdm-animation:ml-bp-animation"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:smdm-animation:ml-bp-animation"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:smdm-animation:ml-bp-animation"/>
+    <file name="touchswipe.js" crc="325405309" ref="sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:smdm-animation:ml-bp-animation"/>
+    <file name="musewpdisclosure.js" crc="4110183178" ref="ml-about:mp"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="mp"/>
+  </folder>
+  <folder name="images">
+    <file name="u1992-4.png" crc="3958179307" ref="index"/>
+    <file name="u1995-4.png" crc="500366676" ref="index"/>
+    <file name="clearbck-bluewgold.png" crc="363194921" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="u2353-4.png" crc="474908709" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="u2351-6.png" crc="3765651869" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="blank.gif" crc="4208392903" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="u2480.png" crc="488785864" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="u2480-a.png" crc="4055519276" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="u2487.png" crc="439949831" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="u2487-a.png" crc="247117542" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="u2521.png" crc="130321142" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="u2521-a.png" crc="3961269044" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="hs"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="hs"/>
+    <file name="u2367.png" crc="154726062" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="u2367-a.png" crc="4053877441" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="u1---hs-register.png" crc="269931570" ref="hs-register"/>
+    <file name="u1---hs-login.png" crc="328422803" ref="hs-login"/>
+    <file name="u1---hs-welcome.png" crc="448500074" ref="hs-welcome"/>
+    <file name="slideout.jpg" crc="4154072338" ref="sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:smdm-animation:ml-bp-animation"/>
+    <file name="u1---sm-category.png" crc="3910516633" ref="sm-category"/>
+    <file name="u1---sm-distinguished.png" crc="3844684377" ref="sm-distinguished"/>
+    <file name="u1---sm-search.png" crc="3768704788" ref="sm-search"/>
+    <file name="u1---sml-near-me.png" crc="4040781061" ref="sml-near-me"/>
+    <file name="u1---smc-eats.png" crc="3825200901" ref="smc-eats"/>
+    <file name="u1---sms-loading.png" crc="322540579" ref="sms-loading"/>
+    <file name="u1---sms-results.png" crc="3980164856" ref="sms-results"/>
+    <file name="u1---sm.png" crc="214212262" ref="sm"/>
+    <file name="u1---ml.png" crc="3796125587" ref="ml"/>
+    <file name="u1---ml-membership.png" crc="67493908" ref="ml-membership"/>
+    <file name="u3538.png" crc="3847283219" ref="ml-about"/>
+    <file name="u3538-a.png" crc="3847283219" ref="ml-about"/>
+    <file name="u3541.png" crc="3885031861" ref="ml-about"/>
+    <file name="u3541-a.png" crc="3885031861" ref="ml-about"/>
+    <file name="u1---ml-about.png" crc="442013406" ref="ml-about"/>
+    <file name="u1---ml-about-fc.png" crc="3879382685" ref="ml-about"/>
+    <file name="u3771.png" crc="135571452" ref="mp"/>
+    <file name="u3771-a.png" crc="135571452" ref="mp"/>
+    <file name="u3776.png" crc="3932483865" ref="mp"/>
+    <file name="u3776-a.png" crc="3932483865" ref="mp"/>
+    <file name="u1---mp-ss.png" crc="3887370446" ref="mp"/>
+    <file name="cornerbutton-glue-left.png" crc="112199309" ref="mp"/>
+    <file name="backpocket-gray.png" crc="4045376463" ref="mp"/>
+    <file name="backpocket-color.png" crc="286957463" ref="mp"/>
+    <file name="u1---mp-fc.png" crc="117310396" ref="mp"/>
+    <file name="u1---mp-choices.png" crc="528270947" ref="mp-choices"/>
+    <file name="u1---mp-redeem.png" crc="3765882556" ref="mp-redeem"/>
+    <file name="u1---ml-register.png" crc="301656269" ref="ml-register"/>
+    <file name="u1---ml-login.png" crc="328422803" ref="ml-login"/>
+    <file name="u1---ml-welcome.png" crc="254836395" ref="ml-welcome"/>
+    <file name="u1---ml-reset.png" crc="3994595044" ref="ml-reset"/>
+    <file name="u1---ml-instructions.png" crc="4000590570" ref="ml-instructions"/>
+    <file name="u1---hs-reset.png" crc="471313182" ref="hs-reset"/>
+    <file name="u1---hs-instructions.png" crc="3774401221" ref="hs-instructions"/>
+    <file name="u1---loader.png" crc="3853463306" ref="loader"/>
+    <file name="u1---hs-verify.png" crc="4048602342" ref="hs-verify"/>
+    <file name="u1---hs-select-register.png" crc="3902862918" ref="hs-select-register"/>
+    <file name="u2---hs.png" crc="3932959946" ref="u2---hs"/>
+    <file name="u1---ml-select-register.png" crc="4086983573" ref="ml-select-register"/>
+    <file name="u1---ml-verify.png" crc="488426805" ref="ml-verify"/>
+    <file name="u1---smdm-animation.png" crc="533940925" ref="smdm-animation"/>
+    <file name="u1---mlbp-animation.png" crc="469307760" ref="ml-bp-animation"/>
+    <file name="u1---mlm-select-register.png" crc="475505217" ref="mlm-select-register"/>
+    <file name="u1---mlm-register.png" crc="4208195815" ref="mlm-register"/>
+    <file name="u1---mlm-verify.png" crc="72331738" ref="mlm-verify"/>
+    <file name="u1---mlm-welcome.png" crc="4271219642" ref="mlm-welcome"/>
+    <file name="u1---mlm-login.png" crc="328422803" ref="mlm-login"/>
+    <file name="u1---mlm-reset.png" crc="4031874971" ref="mlm-reset"/>
+    <file name="u1---mlm-instructions.png" crc="4116127752" ref="mlm-instructions"/>
+    <file name="u1---mla-select-register.png" crc="80257732" ref="mla-select-register"/>
+    <file name="u1---mla-login.png" crc="328422803" ref="mla-login"/>
+    <file name="u1---mla-reset.png" crc="3804537366" ref="mla-reset"/>
+    <file name="u1---mla-instructions.png" crc="159397168" ref="mla-instructions"/>
+    <file name="u1---mla-register.png" crc="330689288" ref="mla-register"/>
+    <file name="u1---mla-verify.png" crc="3913091984" ref="mla-verify"/>
+    <file name="u1---mla-welcome.png" crc="4058040374" ref="mla-welcome"/>
+    <file name="u1---mp-select-register.png" crc="4148908411" ref="mp-select-register"/>
+    <file name="u1---mp-login.png" crc="328422803" ref="mp-login"/>
+    <file name="u1---mp-reset.png" crc="309638343" ref="mp-reset"/>
+    <file name="u1---mp-instructions.png" crc="333463687" ref="mp-instructions"/>
+    <file name="u1---mp-register.png" crc="400089573" ref="mp-register"/>
+    <file name="u1---mp-verify.png" crc="488662592" ref="mp-verify"/>
+    <file name="u1---mp-welcome.png" crc="472780086" ref="mp-welcome"/>
+    <file name="u1---hs-welcome-back.png" crc="181998831" ref="hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back"/>
+    <file name="u1---ml-back-pocket.png" crc="4072790305" ref="ml-back-pocket"/>
+    <file name="u0---hs.png" crc="4129924236" ref="hs"/>
+    <file name="u10655.png" crc="3972690995" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="u10655-a.png" crc="4057168951" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="u10818.png" crc="151299537" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+    <file name="u10818-a.png" crc="328708823" ref="hs:hs-register:hs-login:hs-welcome:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:ml-register:ml-login:ml-welcome:ml-reset:ml-instructions:hs-reset:hs-instructions:loader:hs-verify:hs-select-register:u2---hs:ml-select-register:ml-verify:smdm-animation:ml-bp-animation:mlm-select-register:mlm-register:mlm-verify:mlm-welcome:mlm-login:mlm-reset:mlm-instructions:mla-select-register:mla-login:mla-reset:mla-instructions:mla-register:mla-verify:mla-welcome:mp-select-register:mp-login:mp-reset:mp-instructions:mp-register:mp-verify:mp-welcome:hs-welcome-back:ml-welcome-back:mlm-welcome-back:mla-welcome-back:mp-welcome-back:sm-prompt:mp-prompt:mp-redeem-prompt"/>
+  </folder>
+  <file name="index.html" crc="4159637157" mt="1423848947745" redirect="true"/>
+  <file name="hs.html" crc="124732990" mt="1430102833697" redirect="true"/>
+  <file name="hs-register.html" crc="278819413" mt="1430102833697" redirect="true"/>
+  <file name="hs-login.html" crc="27628015" mt="1430102833697" redirect="true"/>
+  <file name="hs-welcome.html" crc="3817762791" mt="1430102833697" redirect="true"/>
+  <file name="sm-category.html" crc="161820532" mt="1430102833697" redirect="true"/>
+  <file name="sm-distinguished.html" crc="3953253127" mt="1430102833697" redirect="true"/>
+  <file name="sm-search.html" crc="326207614" mt="1430102833697" redirect="true"/>
+  <file name="sml-near-me.html" crc="4197756193" mt="1430102833697" redirect="true"/>
+  <file name="smc-eats.html" crc="4106490212" mt="1430102833697" redirect="true"/>
+  <file name="sms-loading.html" crc="3881395545" mt="1430102833697" redirect="true"/>
+  <file name="sms-results.html" crc="3966384724" mt="1430102833697" redirect="true"/>
+  <file name="sm.html" crc="3866316040" mt="1430102833697" redirect="true"/>
+  <file name="ml.html" crc="4135590113" mt="1430102833697" redirect="true"/>
+  <file name="ml-membership.html" crc="3984501074" mt="1430102833697" redirect="true"/>
+  <file name="ml-about.html" crc="3941153588" mt="1430102833697" redirect="true"/>
+  <file name="ml-back-pocket.html" crc="4096628525" mt="1430102833697" redirect="true"/>
+  <file name="mp.html" crc="4293766398" mt="1430102833697" redirect="true"/>
+  <file name="mp-choices.html" crc="294951351" mt="1430102833697" redirect="true"/>
+  <file name="mp-redeem.html" crc="401200830" mt="1430102833697" redirect="true"/>
+  <file name="ml-register.html" crc="407645626" mt="1430102833697" redirect="true"/>
+  <file name="ml-login.html" crc="467427384" mt="1430102833697" redirect="true"/>
+  <file name="ml-welcome.html" crc="4269497041" mt="1430102833697" redirect="true"/>
+  <file name="ml-reset.html" crc="3892686129" mt="1430102833697" redirect="true"/>
+  <file name="ml-instructions.html" crc="293029305" mt="1430102833697" redirect="true"/>
+  <file name="hs-reset.html" crc="253027233" mt="1430102833697" redirect="true"/>
+  <file name="hs-instructions.html" crc="413431239" mt="1430102833697" redirect="true"/>
+  <file name="loader.html" crc="4205580835" mt="1430102833697" redirect="true"/>
+  <file name="hs-verify.html" crc="308985462" mt="1430102833697" redirect="true"/>
+  <file name="hs-select-register.html" crc="3957228183" mt="1430102833697" redirect="true"/>
+  <file name="u2---hs.html" crc="3920982919" mt="1430102833697" redirect="true"/>
+  <file name="ml-select-register.html" crc="3812224873" mt="1430102833697" redirect="true"/>
+  <file name="ml-verify.html" crc="4279168450" mt="1430102833697" redirect="true"/>
+  <file name="smdm-animation.html" crc="533787986" mt="1430102833697" redirect="true"/>
+  <file name="ml-bp-animation.html" crc="93616830" mt="1430102833697" redirect="true"/>
+  <file name="mlm-select-register.html" crc="3909750288" mt="1430102833697" redirect="true"/>
+  <file name="mlm-register.html" crc="3968778269" mt="1430102833697" redirect="true"/>
+  <file name="mlm-verify.html" crc="4222882634" mt="1430102833697" redirect="true"/>
+  <file name="mlm-welcome.html" crc="490624799" mt="1430102833697" redirect="true"/>
+  <file name="mlm-login.html" crc="4140690829" mt="1430102833697" redirect="true"/>
+  <file name="mlm-reset.html" crc="3776704460" mt="1430102833697" redirect="true"/>
+  <file name="mlm-instructions.html" crc="501132289" mt="1430102833697" redirect="true"/>
+  <file name="mla-select-register.html" crc="4124202137" mt="1430102833697" redirect="true"/>
+  <file name="mla-login.html" crc="229620633" mt="1430102833697" redirect="true"/>
+  <file name="mla-reset.html" crc="3859556292" mt="1430102833697" redirect="true"/>
+  <file name="mla-instructions.html" crc="223428665" mt="1430102833697" redirect="true"/>
+  <file name="mla-register.html" crc="3864237699" mt="1430102833697" redirect="true"/>
+  <file name="mla-verify.html" crc="403375248" mt="1430102833697" redirect="true"/>
+  <file name="mla-welcome.html" crc="210568067" mt="1430102833697" redirect="true"/>
+  <file name="mp-select-register.html" crc="4038533343" mt="1430102833697" redirect="true"/>
+  <file name="mp-login.html" crc="3778986317" mt="1430102833697" redirect="true"/>
+  <file name="mp-reset.html" crc="108843708" mt="1430102833697" redirect="true"/>
+  <file name="mp-instructions.html" crc="4262644381" mt="1430102833697" redirect="true"/>
+  <file name="mp-register.html" crc="4259777462" mt="1430102833697" redirect="true"/>
+  <file name="mp-verify.html" crc="123069053" mt="1430102833697" redirect="true"/>
+  <file name="mp-welcome.html" crc="4228887004" mt="1430102833697" redirect="true"/>
+  <file name="hs-welcome-back.html" crc="450821617" mt="1430102833697" redirect="true"/>
+  <file name="ml-welcome-back.html" crc="462453314" mt="1430102833697" redirect="true"/>
+  <file name="mlm-welcome-back.html" crc="3852735855" mt="1430102833697" redirect="true"/>
+  <file name="mla-welcome-back.html" crc="103438442" mt="1430102833697" redirect="true"/>
+  <file name="mp-welcome-back.html" crc="3991431599" mt="1430102833697" redirect="true"/>
+  <file name="sm-prompt.html" crc="3967658709" mt="1430102833697" redirect="true"/>
+  <file name="mp-prompt.html" crc="3826554917" mt="1430102833697" redirect="true"/>
+  <file name="mp-redeem-prompt.html" crc="195091420" mt="1430102833697" redirect="true"/>
+</manifest>

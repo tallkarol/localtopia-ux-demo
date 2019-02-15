@@ -1,0 +1,142 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430085766623">
+  <folder name="css">
+    <file name="site_global.css" crc="4204668907"/>
+    <file name="master_a-master.css" crc="3879224038" ref="sms-loading:sms-results:mpr-warning:mp-redeemed:sm:ml:wb:hs:ml-membership:loader:ml-about:mpr-finished:smdm-animation:ml-back-pocket:mp-redemption-unavailable:mp:sm-category:mp-choices:mlbp-animation:sm-distinguished:mp-redeem:mpr-close:sm-search:sml-near-me:mpru-warning:smc-eats:mp-redeem-warning"/>
+    <file name="sms-loading.css" crc="246676581" ref="sms-loading"/>
+    <file name="sms-results.css" crc="3949781405" ref="sms-results"/>
+    <file name="mpr-warning.css" crc="182490917" ref="mpr-warning"/>
+    <file name="mp-redeemed.css" crc="4260794465" ref="mp-redeemed"/>
+    <file name="sm.css" crc="3846507703" ref="sm"/>
+    <file name="index.css" crc="104402758" ref="index"/>
+    <file name="ml.css" crc="4174455904" ref="ml"/>
+    <file name="wb.css" crc="3856336437" ref="wb"/>
+    <file name="hs.css" crc="3790171787" ref="hs"/>
+    <file name="ml-membership.css" crc="341378168" ref="ml-membership"/>
+    <file name="loader.css" crc="510892409" ref="loader"/>
+    <file name="ml-about.css" crc="4211973818" ref="ml-about"/>
+    <file name="mpr-finished.css" crc="448762693" ref="mpr-finished"/>
+    <file name="smdm-animation.css" crc="244965117" ref="smdm-animation"/>
+    <file name="ml-back-pocket.css" crc="3777465240" ref="ml-back-pocket"/>
+    <file name="mp-redemption-unavailable.css" crc="512315481" ref="mp-redemption-unavailable"/>
+    <file name="mp.css" crc="4160724271" ref="mp"/>
+    <file name="sm-category.css" crc="16644342" ref="sm-category"/>
+    <file name="mp-choices.css" crc="353752030" ref="mp-choices"/>
+    <file name="mlbp-animation.css" crc="3860132156" ref="mlbp-animation"/>
+    <file name="sm-distinguished.css" crc="221695932" ref="sm-distinguished"/>
+    <file name="mp-redeem.css" crc="462340954" ref="mp-redeem"/>
+    <file name="mpr-close.css" crc="151471220" ref="mpr-close"/>
+    <file name="sm-search.css" crc="86066030" ref="sm-search"/>
+    <file name="sml-near-me.css" crc="144727132" ref="sml-near-me"/>
+    <file name="mpru-warning.css" crc="293891024" ref="mpru-warning"/>
+    <file name="smc-eats.css" crc="470830444" ref="smc-eats"/>
+    <file name="mp-redeem-warning.css" crc="4045099158" ref="mp-redeem-warning"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="museutils.js" crc="521960461" ref="index:hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="pie.js" crc="3827607177" ref="index:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="html5shiv.js" crc="4241844378" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="webpro.js" crc="220831917" ref="sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket"/>
+    <file name="touchswipe.js" crc="325405309" ref="sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket"/>
+    <file name="musewpdisclosure.js" crc="4110183178" ref="ml-about:mp"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="mp"/>
+  </folder>
+  <folder name="images">
+    <file name="u3813-4.png" crc="3958179307" ref="index"/>
+    <file name="u3816-4.png" crc="500366676" ref="index"/>
+    <file name="clearbck-bluewgold.png" crc="363194921" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u1420-4.png" crc="474908709" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u2336-6.png" crc="3882041525" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u2---hs.png" crc="151795881" ref="hs"/>
+    <file name="blank.gif" crc="4208392903" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u1433.png" crc="4272677789" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u1433-a.png" crc="3787771600" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u1979.png" crc="4155931865" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u1979-a.png" crc="150450590" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u2456.png" crc="3779424276" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u2456-a.png" crc="21672995" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u1705.png" crc="413161792" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u1705-a.png" crc="3987705325" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u1711.png" crc="227816617" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u1711-a.png" crc="3975444861" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="hs:sm"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="hs:sm"/>
+    <file name="u1720.png" crc="4011200221" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u1720-a.png" crc="4112070020" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u1724.png" crc="245877785" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="u1724-a.png" crc="3863707050" ref="hs:sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket:mp:mp-choices:mp-redeem:loader:wb:mp-redeemed:mpr-close:mpr-finished:mlbp-animation:smdm-animation:mp-redemption-unavailable:mpru-warning:mpr-warning:mp-redeem-warning"/>
+    <file name="slideout.jpg" crc="4154072338" ref="sm-category:sm-distinguished:sm-search:sml-near-me:smc-eats:sms-loading:sms-results:sm:ml:ml-membership:ml-about:ml-back-pocket"/>
+    <file name="u2---sm-category.png" crc="3772303052" ref="sm-category"/>
+    <file name="u2---sml-distinguished.png" crc="76677224" ref="sm-distinguished"/>
+    <file name="u2---sm-search.png" crc="94843671" ref="sm-search"/>
+    <file name="u2---sml-near-me.png" crc="3889274304" ref="sml-near-me"/>
+    <file name="u2---smc-eats.png" crc="4212843641" ref="smc-eats"/>
+    <file name="u2---sms-loading.png" crc="3830299234" ref="sms-loading"/>
+    <file name="u2---sms-results.png" crc="108403267" ref="sms-results"/>
+    <file name="u2---ml.png" crc="3868916633" ref="ml"/>
+    <file name="u2---ml-membership.png" crc="45921344" ref="ml-membership"/>
+    <file name="u3789.png" crc="3847283219" ref="ml-about"/>
+    <file name="u3789-a.png" crc="3847283219" ref="ml-about"/>
+    <file name="u3792.png" crc="3885031861" ref="ml-about"/>
+    <file name="u3792-a.png" crc="3885031861" ref="ml-about"/>
+    <file name="u2---ml-about.png" crc="4221883030" ref="ml-about"/>
+    <file name="u2---ml-about-fc.png" crc="222313995" ref="ml-about"/>
+    <file name="u2---ml-back-pocket.png" crc="339256631" ref="ml-back-pocket"/>
+    <file name="u3504.png" crc="135571452" ref="mp"/>
+    <file name="u3504-a.png" crc="135571452" ref="mp"/>
+    <file name="u3510.png" crc="3932483865" ref="mp"/>
+    <file name="u3510-a.png" crc="3932483865" ref="mp"/>
+    <file name="u1---mp-ss.png" crc="3887370446" ref="mp"/>
+    <file name="cornerbutton-glue-left.png" crc="112199309" ref="mp"/>
+    <file name="backpocket-gray.png" crc="4045376463" ref="mp"/>
+    <file name="backpocket-color.png" crc="286957463" ref="mp"/>
+    <file name="u1---mp-fc.png" crc="117310396" ref="mp"/>
+    <file name="5 - redemption choices.jpg" crc="4236061261" ref="mp-choices"/>
+    <file name="u1---mp-redeem.png" crc="3765882556" ref="mp-redeem"/>
+    <file name="u2---loader.png" crc="3853463306" ref="loader"/>
+    <file name="u2---hs-welcome-back.png" crc="262385836" ref="wb"/>
+    <file name="u2---mp-redeemed.png" crc="230487112" ref="mp-redeemed"/>
+    <file name="u2---mpr-close.png" crc="175627796" ref="mpr-close"/>
+    <file name="pin.gif" crc="3943510292" ref="mpr-close"/>
+    <file name="u2---mp-finished.png" crc="133991724" ref="mpr-finished"/>
+    <file name="u2---mlbp-animation.png" crc="3979938799" ref="mlbp-animation"/>
+    <file name="u2---smdm-animation.png" crc="408378063" ref="smdm-animation"/>
+    <file name="u2---mp-redeemption-unavailable.png" crc="3939217030" ref="mp-redemption-unavailable"/>
+    <file name="u2---mp-redeemption-unavailable-warning.png" crc="3366382" ref="mpru-warning"/>
+    <file name="u2---mp-redeemed-warning.png" crc="3866546791" ref="mpr-warning"/>
+    <file name="u2---mp-redeem-warning.png" crc="3886887154" ref="mp-redeem-warning"/>
+    <file name="u1---sm.png" crc="214212262" ref="sm"/>
+  </folder>
+  <file name="index.html" crc="152474065" mt="1423849129971" redirect="true"/>
+  <file name="hs.html" crc="4226762412" mt="1429617529212" redirect="true"/>
+  <file name="sm-category.html" crc="230403485" mt="1427932110096" redirect="true"/>
+  <file name="sm-distinguished.html" crc="4089055798" mt="1428947235952" redirect="true"/>
+  <file name="sm-search.html" crc="4194429530" mt="1428947196812" redirect="true"/>
+  <file name="sml-near-me.html" crc="4273921877" mt="1428947130098" redirect="true"/>
+  <file name="smc-eats.html" crc="3842163900" mt="1428947155352" redirect="true"/>
+  <file name="sms-loading.html" crc="202949675" mt="1428947211945" redirect="true"/>
+  <file name="sms-results.html" crc="444868408" mt="1428947225399" redirect="true"/>
+  <file name="sm.html" crc="157148321" mt="1430085740224" redirect="true"/>
+  <file name="ml.html" crc="392339380" mt="1429617574658" redirect="true"/>
+  <file name="ml-membership.html" crc="342285939" mt="1429617624056" redirect="true"/>
+  <file name="ml-about.html" crc="4218377305" mt="1429617751303" redirect="true"/>
+  <file name="ml-back-pocket.html" crc="8612264" mt="1429617791593" redirect="true"/>
+  <file name="mp.html" crc="391909754" mt="1427932110096" redirect="true"/>
+  <file name="mp-choices.html" crc="408046543" mt="1427932110096" redirect="true"/>
+  <file name="mp-redeem.html" crc="205076866" mt="1429617529608" redirect="true"/>
+  <file name="loader.html" crc="339089597" mt="1427932110096" redirect="true"/>
+  <file name="wb.html" crc="409634448" mt="1428947251125" redirect="true"/>
+  <file name="mp-redeemed.html" crc="4008156889" mt="1427932110096" redirect="true"/>
+  <file name="mpr-close.html" crc="407907935" mt="1427932110096" redirect="true"/>
+  <file name="mpr-finished.html" crc="337139880" mt="1427932110096" redirect="true"/>
+  <file name="mlbp-animation.html" crc="429462642" mt="1427932110096" redirect="true"/>
+  <file name="smdm-animation.html" crc="4048750571" mt="1427932110096" redirect="true"/>
+  <file name="mp-redemption-unavailable.html" crc="90670283" mt="1427932110096" redirect="true"/>
+  <file name="mpru-warning.html" crc="4192391909" mt="1427932110096" redirect="true"/>
+  <file name="mpr-warning.html" crc="4180312354" mt="1427932110096" redirect="true"/>
+  <file name="mp-redeem-warning.html" crc="388167708" mt="1429617529314" redirect="true"/>
+</manifest>
